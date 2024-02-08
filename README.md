@@ -1,4 +1,4 @@
-# Fuel Consumption Prediction
+# Brain Tumor Detection
 
 # Software and Tools Requirements
 
